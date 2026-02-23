@@ -1,15 +1,15 @@
-{"timestamp": "15:49:39.341", "elapsed_s": 0, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "15:49:39.561", "elapsed_s": 0, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "15:49:39.769", "elapsed_s": 0, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "15:49:39.980", "elapsed_s": 0, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "15:49:40.180", "elapsed_s": 1, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "15:49:40.388", "elapsed_s": 1, "frame": 360, "screen_size": [1280, 720]}
-{"timestamp": "15:49:40.599", "elapsed_s": 1, "frame": 420, "screen_size": [1280, 720]}
-{"timestamp": "15:49:40.795", "elapsed_s": 1, "frame": 480, "screen_size": [1280, 720]}
-{"timestamp": "15:49:40.984", "elapsed_s": 1, "frame": 540, "screen_size": [1280, 720]}
-{"timestamp": "15:49:41.182", "elapsed_s": 2, "frame": 600, "screen_size": [1280, 720]}
-{"timestamp": "15:49:41.382", "elapsed_s": 2, "frame": 660, "screen_size": [1280, 720]}
-{"timestamp": "15:49:41.600", "elapsed_s": 2, "frame": 720, "screen_size": [1280, 720]}
-{"timestamp": "15:49:41.802", "elapsed_s": 2, "frame": 780, "screen_size": [1280, 720]}
-{"timestamp": "15:49:42.025", "elapsed_s": 2, "frame": 840, "screen_size": [1280, 720]}
-{"timestamp": "15:49:42.236", "elapsed_s": 3, "frame": 900, "screen_size": [1280, 720]}
+{"timestamp": "16:24:51.011", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -68.7}}
+{"timestamp": "16:24:52.020", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": -39.3}}
+{"timestamp": "16:24:53.030", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 150.9}}
+{"timestamp": "16:24:54.029", "elapsed_s": 4, "frame": 240, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 442.5}}
+{"timestamp": "16:24:55.036", "elapsed_s": 5, "frame": 300, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 618.9}}
+{"timestamp": "16:24:56.054", "elapsed_s": 6, "frame": 360, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 564.6}}
+{"timestamp": "16:24:57.066", "elapsed_s": 7, "frame": 420, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 523.2}}
+{"timestamp": "16:24:58.076", "elapsed_s": 8, "frame": 480, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 502.2}}
+{"timestamp": "16:24:59.082", "elapsed_s": 9, "frame": 540, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 547.5}}
+{"timestamp": "16:25:00.095", "elapsed_s": 10, "frame": 600, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 616.8}}
+{"timestamp": "16:25:01.096", "elapsed_s": 11, "frame": 660, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 533.7}}
+{"timestamp": "16:25:02.101", "elapsed_s": 12, "frame": 720, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 467.1}}
+{"timestamp": "16:25:03.097", "elapsed_s": 13, "frame": 780, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 495.6}}
+{"timestamp": "16:25:04.096", "elapsed_s": 14, "frame": 840, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 514.5}}
+{"timestamp": "16:25:05.090", "elapsed_s": 15, "frame": 900, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 514.5}}
