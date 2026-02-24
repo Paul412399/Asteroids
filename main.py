@@ -42,6 +42,11 @@ def main():
                 log_event("player_hit")
                 print("Game over!")
                 sys.exit()
+            for glont in shots:
+                if chestie.collides_with(glont):
+                    log_event("asteroid_shot")
+                    chestie.split()
+                    glont.kill()
         pygame.display.flip()
         
 
