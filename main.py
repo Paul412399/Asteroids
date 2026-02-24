@@ -5,6 +5,8 @@ from logger import log_state
 from player import Player
 from asteroid import Asteroid
 from asteroidfield import AsteroidField
+from logger import log_event
+import sys
 
 def main():
     print(f"Starting Asteroids with pygame version: {pygame.version.ver}")
@@ -32,6 +34,11 @@ def main():
         updatable.update(dt)
         for chestie in drawable:
             chestie.draw(screen)
+        for chestie in asteroids:
+            if chestie.collides_with(player):
+                log_event("player_hit")
+                print("Game over!")
+                sys.exit()
         pygame.display.flip()
         
 
